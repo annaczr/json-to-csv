@@ -1,0 +1,22 @@
+[
+  {
+    "campaing_id": "picpay_bank",
+    "seller_id": "2017025",
+    "action": true
+  },
+  {
+    "campaing_id": "ativacao_sellers",
+    "seller_id": "2018026",
+    "action": true
+  },
+  {
+    "campaing_id": "adiantamento_jf",
+    "seller_id": "2019034",
+    "action": true
+  },
+  {
+    "campaing_id": "vid_valw",
+    "seller_id": "60901",
+    "action": false
+  }
+]
